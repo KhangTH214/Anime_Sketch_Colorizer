@@ -20,3 +20,5 @@ Please refer to the training notebook: train.ipynb
 | Data Augmentation        | RandomResizedCrop(256) <br> RandomHorizontalFlip() |
 | HW                       | CPU : Intel i5-8400 <br> RAM : 16G <br> GPU : NVIDIA GTX1060 6G |
 | Training Time            | About 0.93s per iteration <br> (About 45 hours for 25 epoch) |
+## Modal
+<img width="2220" height="1049" alt="Modal" src="https://github.com/user-attachments/assets/2aa7d131-a596-4051-b580-3e49c9ece16b" />
