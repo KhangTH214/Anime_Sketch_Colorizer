@@ -5,3 +5,5 @@ Automatic Sketch Colorization with reference image
 
 ## Dataset
 Taebum Kim, <a href="https://www.kaggle.com/ttaebum/anime-sketch-colorization-pair">Anime Sketch Colorization Pair</a>, Kaggle
+## Train
+Please refer train.ipynb
