@@ -22,3 +22,9 @@ Please refer to the training notebook: train.ipynb
 | Training Time            | About 0.93s per iteration <br> (About 45 hours for 25 epoch) |
 ## Modal
 <img width="2220" height="1049" alt="Modal" src="https://github.com/user-attachments/assets/2aa7d131-a596-4051-b580-3e49c9ece16b" />
+## Results
+![img_1](https://github.com/user-attachments/assets/00a76a64-1695-4182-8aa8-56fb05861c08)
+![img_2](https://github.com/user-attachments/assets/6f37e37e-65bc-4dad-ac17-3c5a00aac3ca)
+![img_3](https://github.com/user-attachments/assets/4619990d-70d5-4ae3-b561-067cd40dcccb)
+![img_4](https://github.com/user-attachments/assets/def23dfc-3a31-45dd-bf25-fad5061fefd3)
+
