@@ -6,6 +6,4 @@ Automatic Sketch Colorization with reference image
 ## Dataset
 Taebum Kim, <a href="https://www.kaggle.com/ttaebum/anime-sketch-colorization-pair">Anime Sketch Colorization Pair</a>, Kaggle
 ## Train
-Please refer to the training notebook:
-
-<a href="train.ipynb"> <button style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;"> Open Training Notebook </button> </a>
+Please refer to the training notebook: train.ipynb
