@@ -24,6 +24,7 @@ Please refer to the training notebook: train.ipynb
 <img width="2220" height="1049" alt="Modal" src="https://github.com/user-attachments/assets/2aa7d131-a596-4051-b580-3e49c9ece16b" />
 
 ## Results
+Reference / Sketch / Colorization Result / Ground Truth
 ![img_1](https://github.com/user-attachments/assets/00a76a64-1695-4182-8aa8-56fb05861c08)
 
 ![img_2](https://github.com/user-attachments/assets/6f37e37e-65bc-4dad-ac17-3c5a00aac3ca)
